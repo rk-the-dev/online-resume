@@ -6,19 +6,19 @@
 ---
 
 ## 🌟 **Profile**
-- 🚀 **6+ years of dedicated experience in Golang development**, with **12 years of overall professional experience** in designing, developing, and optimizing enterprise-grade applications.  
-- 🛠️ Expertise in popular **Golang frameworks** such as Gin, Echo, and Fiber, enabling rapid and efficient backend development.  
-- 📊 Proficient in **SQL** (MySQL, PostgreSQL) and **NoSQL** (MongoDB, Redis) databases, with a focus on query optimization, indexing, and schema design.  
-- 🏗️ Skilled in **architecture design** for microservices, distributed systems, and event-driven systems, ensuring scalability, maintainability, and modularity.  
-- ⚡ Strong expertise in **performance optimization**, leveraging advanced concurrency patterns, memory management, and profiling tools in Golang.  
-- 🌍 Extensive experience in developing **REST APIs** and integrating them with front-end applications, adhering to best practices and industry standards.  
-- 🧩 Proficient in implementing **GraphQL APIs** for flexible and efficient data fetching.  
-- 🚦 Hands-on experience with **message brokers** (Kafka, RabbitMQ, ActiveMQ) to design asynchronous and fault-tolerant systems.  
-- 🛡️ Solid understanding of **security best practices**, including secure authentication, data encryption, and vulnerability mitigation.  
-- ⚙️ Proficient in setting up **CI/CD pipelines**, enabling automated testing, deployment, and high-quality releases.  
-- 🌟 Adept at **data modeling**, ensuring normalized database design and robust schemas to handle complex workflows.  
-- 📈 Proven track record in **mentoring teams**, conducting code reviews, and promoting technical excellence.  
-- 🤝 Experienced in collaborating with cross-functional teams to deliver high-performance and user-centric solutions.  
+
+- 🚀 **6+ years of Golang experience** and **12+ years of overall professional expertise** in backend development.  
+- 🛠️ Skilled in **Golang frameworks** like Gin, Echo, and Fiber for rapid backend development.  
+- 📊 Proficient in **SQL** (MySQL, PostgreSQL) and **NoSQL** (MongoDB, Redis) with a focus on query optimization.  
+- 🏗️ Experienced in **microservices architecture** and **event-driven systems** for scalable solutions.  
+- ⚡ Expert in **performance optimization** using concurrency patterns and profiling tools.  
+- 🌍 Adept at developing **REST APIs** and integrating **GraphQL APIs** for flexible data retrieval.  
+- 🚦 Hands-on with **message brokers** like Kafka, RabbitMQ, and ActiveMQ for fault-tolerant systems.  
+- 🛡️ Strong in **security best practices**, including secure authentication and data encryption.  
+- ⚙️ Skilled in **CI/CD pipelines** for automated testing and deployments.  
+- 🌟 Experienced in **data modeling** and creating robust database schemas.  
+- 📈 Proven ability to mentor teams and drive **technical excellence**.  
+- 🤝 Collaborative in cross-functional teams, delivering high-performance solutions.  
 
 ---
 

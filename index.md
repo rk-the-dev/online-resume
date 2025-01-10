@@ -1,7 +1,7 @@
 # 👤 **Radhakishan Surwase**  
 ## 💼 Lead Software Engineer  
 
-📍 Pune, Maharashtra, India, 411027 📞 (+91) 8263892654  ✉️ [radhakishans@hotmail.com](mailto:radhakishans@hotmail.com)  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/rkishans/)  [![Medium](https://img.shields.io/badge/-Medium-black?logo=medium)](https://rksurwase.medium.com/)  
+📍 Pune, Maharashtra, India, 411027  📞 (+91) 8263892654   ✉️ [radhakishans@hotmail.com](mailto:radhakishans@hotmail.com)   [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/rkishans/)   [![Medium](https://img.shields.io/badge/-Medium-black?logo=medium)](https://rksurwase.medium.com/)  
 
 ---
 

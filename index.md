@@ -18,23 +18,7 @@
 
 ## 🛠 **Skills**
 
-![Golang](https://img.shields.io/badge/-Golang-blue)  
-![Java](https://img.shields.io/badge/-Java-red)  
-![Node.js](https://img.shields.io/badge/-Node.js-green)  
-![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)  
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes&logoColor=white)  
-![Helm](https://img.shields.io/badge/-Helm-0F1689?logo=helm&logoColor=white)  
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)  
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)  
-![Redis](https://img.shields.io/badge/-Redis-DC382D?logo=redis&logoColor=white)  
-![Kafka](https://img.shields.io/badge/-Kafka-231F20?logo=apache-kafka&logoColor=white)  
-![ActiveMQ](https://img.shields.io/badge/-ActiveMQ-D22128)  
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)  
-![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)  
-![GitLab](https://img.shields.io/badge/-GitLab-FC6D26?logo=gitlab&logoColor=white)  
-![JSON](https://img.shields.io/badge/-JSON-000000?logo=json&logoColor=white)  
-![REST API](https://img.shields.io/badge/-REST%20API-lightgrey)  
-![XML](https://img.shields.io/badge/-XML-orange)
+![Golang](https://img.shields.io/badge/-Golang-blue)  ![Java](https://img.shields.io/badge/-Java-red)  ![Node.js](https://img.shields.io/badge/-Node.js-green)  ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)  ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes&logoColor=white)  ![Helm](https://img.shields.io/badge/-Helm-0F1689?logo=helm&logoColor=white)  ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)  ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)  ![Redis](https://img.shields.io/badge/-Redis-DC382D?logo=redis&logoColor=white)  ![Kafka](https://img.shields.io/badge/-Kafka-231F20?logo=apache-kafka&logoColor=white)  ![ActiveMQ](https://img.shields.io/badge/-ActiveMQ-D22128)  ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)  ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)  ![GitLab](https://img.shields.io/badge/-GitLab-FC6D26?logo=gitlab&logoColor=white)  ![JSON](https://img.shields.io/badge/-JSON-000000?logo=json&logoColor=white)  ![REST API](https://img.shields.io/badge/-REST%20API-lightgrey)  ![XML](https://img.shields.io/badge/-XML-orange)
 
 ---
 

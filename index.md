@@ -1,8 +1,14 @@
-# <img src="photo_blue_bg.jpg" alt="Profile Photo" width="120" height="120" style="border-radius: 50%;"/> Radhakishan Surwase  
-**Lead Software Engineer**  
+<div align="center" style="background-color: #f0f0f0; padding: 20px; border-radius: 10px;">
+
+<img src="photo_blue_bg.jpg" alt="Profile Photo" width="120" height="120" style="border-radius: 50%; border: 3px solid #007BFF;"/>
+
+# **Radhakishan Surwase**  
+### **Lead Software Engineer**  
 📍 Pune, India | 📞 (+91) 8263892654 | ✉️ [radhakishans@hotmail.com](mailto:radhakishans@hotmail.com)  
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/rkishans/)  
 [![Medium](https://img.shields.io/badge/-Medium-black?logo=medium)](https://rksurwase.medium.com/)  
+
+</div>
 
 ---
 

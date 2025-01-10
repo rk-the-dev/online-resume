@@ -1,15 +1,17 @@
-<div style="display: flex; align-items: center; padding: 20px; background-color: #f0f0f0; border-radius: 10px;">
+<div style="display: table; width: 100%; background-color: #f0f0f0; padding: 20px; border-radius: 10px;">
 
-<img src="photo_blue_bg.jpg" alt="Profile Photo" width="120" height="120" style="border-radius: 50%; border: 3px solid #007BFF; margin-right: 20px;"/>
+<div style="display: table-cell; vertical-align: middle; width: 120px; text-align: center;">
+    <img src="photo_blue_bg.jpg" alt="Profile Photo" width="100" height="100" style="border-radius: 50%; border: 3px solid #007BFF;"/>
+</div>
 
-<div style="text-align: left;">
-    <h1 style="margin: 0; font-size: 24px; color: #333;">Radhakishan Surwase</h1>
+<div style="display: table-cell; vertical-align: middle; padding-left: 20px;">
+    <h1 style="margin: 0; font-size: 22px; color: #333;">Radhakishan Surwase</h1>
     <h3 style="margin: 0; font-size: 18px; color: #555;">Lead Software Engineer</h3>
-    <p style="margin: 5px 0; font-size: 14px;">
+    <p style="margin: 5px 0; font-size: 14px; line-height: 1.5;">
         📍 Pune, India<br>
         📞 (+91) 8263892654<br>
         ✉️ <a href="mailto:radhakishans@hotmail.com" style="color: #007BFF;">radhakishans@hotmail.com</a><br>
-        [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/rkishans/)
+        [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/rkishans/)  
         [![Medium](https://img.shields.io/badge/-Medium-black?logo=medium)](https://rksurwase.medium.com/)
     </p>
 </div>
@@ -46,36 +48,6 @@
 - 🤝 Mentored junior developers on **Golang concurrency patterns** and performance optimization.  
 - 🛡️ Enhanced system **security** through advanced authentication mechanisms.
 
-### **Senior Software Engineer - L4**  
-**MAERSK GSC, Pune**  
-*October 2023 – September 2024*  
-- 🚢 Architected high-performance data pipelines for seamless **vessel data integration**.  
-- 📈 Improved CI/CD pipelines with automated code quality checks and **real-time monitoring tools**.  
-- ⚡ Designed event-driven communication systems using **ActiveMQ** for asynchronous processing.  
-- 🧑‍🏫 Conducted workshops on **Golang best practices** and system design.  
-- ⚙️ Optimized resource utilization through advanced **concurrency mechanisms**.  
-- 💾 Improved data consistency using distributed transactions.
-
-### **Senior Technical Lead**  
-**Encora Inc., Pune**  
-*July 2021 – October 2023*  
-- 🏗️ Built AWS monitoring microservices from scratch, enhancing visibility into **distributed cloud environments**.  
-- ⏱️ Designed **fault-tolerant systems** for real-time metric collection, significantly reducing downtime.  
-- 📊 Implemented distributed **data pipelines** for high-volume datasets.  
-- 🤝 Collaborated with teams to address customer issues and implement scalable solutions.  
-- 📅 Participated in **roadmap planning** and technical grooming sessions to align project goals.  
-- 🛠️ Automated deployment processes, improving overall delivery time.
-
-### **Technical Lead**  
-**MKCL, Pune**  
-*October 2012 – July 2021*  
-- 📚 Delivered innovative solutions in **e-learning and educational administration**, transforming user experiences.  
-- 🚀 Engineered the **ERA e-Learning framework**, enabling over 1.1 million learners annually.  
-- 🏫 Designed the **Digital University Framework**, managing millions of student lifecycles.  
-- 🔗 Developed APIs and backend services using **Golang**, **Node.js**, and **Java**.  
-- 🧹 Streamlined workflows by implementing **code review processes**.  
-- 🌟 Recognized with the **Excellent Performer Award** in 2017 for exceptional contributions.
-
 ---
 
 ## 🎓 **Education**  
@@ -88,20 +60,6 @@ Percentage: **87.00%**
 Dr. Babasaheb Ambedkar Marathwada University, Aurangabad  
 *June 2002 – June 2005*  
 Percentage: **79.00%**  
-
----
-
-## 🏆 **Achievements**  
-- 🏅 **Customer Success Award** — Encora, 2021  
-- 🥇 **Excellent Performer Award** — MKCL, 2017  
-
----
-
-## 📖 **Interests**  
-- ✍️ Writing tech blogs on [Medium](https://rksurwase.medium.com/)  
-- 🔍 Exploring **Elasticsearch**, **gRPC**, and **Kafka**  
-- 🚴 Bike riding and 🥾 hiking  
-- 👨‍🍳 Cooking and experimenting with recipes  
 
 ---
 

@@ -1,22 +1,22 @@
-<div style="display: table; width: 100%; background-color: #f0f0f0; padding: 20px; border-radius: 10px;">
+<table style="width:100%; border:none;">
+<tr>
+<td style="width:50%; vertical-align:top;">
+  
+# **Radhakishan Surwase**  
+### **Lead Software Engineer**  
+📍 Pune, India  
+📞 (+91) 8263892654  
+✉️ [radhakishans@hotmail.com](mailto:radhakishans@hotmail.com)  
 
-<div style="display: table-cell; vertical-align: middle; width: 120px; text-align: center;">
-    <img src="photo_blue_bg.jpg" alt="Profile Photo" width="100" height="100" style="border-radius: 50%; border: 3px solid #007BFF;"/>
-</div>
+</td>
+<td style="width:50%; text-align:right; vertical-align:top;">
 
-<div style="display: table-cell; vertical-align: middle; padding-left: 20px;">
-    <h1 style="margin: 0; font-size: 22px; color: #333;">Radhakishan Surwase</h1>
-    <h3 style="margin: 0; font-size: 18px; color: #555;">Lead Software Engineer</h3>
-    <p style="margin: 5px 0; font-size: 14px; line-height: 1.5;">
-        📍 Pune, India<br>
-        📞 (+91) 8263892654<br>
-        ✉️ <a href="mailto:radhakishans@hotmail.com" style="color: #007BFF;">radhakishans@hotmail.com</a><br>
-        [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/rkishans/)  
-        [![Medium](https://img.shields.io/badge/-Medium-black?logo=medium)](https://rksurwase.medium.com/)
-    </p>
-</div>
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/rkishans/)  
+[![Medium](https://img.shields.io/badge/-Medium-black?logo=medium)](https://rksurwase.medium.com/)
 
-</div>
+</td>
+</tr>
+</table>
 
 ---
 

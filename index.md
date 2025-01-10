@@ -1,7 +1,15 @@
+[![Backend Developer](https://img.shields.io/badge/-Backend%20Developer-yellow?logo=serverfault&logoColor=white)]()  
+[![Golang Developer](https://img.shields.io/badge/-Golang%20Developer-blue?logo=go&logoColor=white)]()  
+[![Cloud Engineer](https://img.shields.io/badge/-Cloud%20Engineer-ff69b4?style=flat&logo=google-cloud&logoColor=white)]()
+
 # **Radhakishan Surwase**  
 ## 💼 Lead Software Engineer  
 
-📍 Pune, Maharshtra, India  | 📞 (+91) 8263892654  | ✉️ [radhakishans@hotmail.com](mailto:radhakishans@hotmail.com)  | [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/rkishans/)  | [![Medium](https://img.shields.io/badge/-Medium-black?logo=medium)](https://rksurwase.medium.com/)  
+📍 Pune, India  
+📞 (+91) 8263892654  
+✉️ [radhakishans@hotmail.com](mailto:radhakishans@hotmail.com)  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/rkishans/)  
+[![Medium](https://img.shields.io/badge/-Medium-black?logo=medium)](https://rksurwase.medium.com/)  
 
 ---
 

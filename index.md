@@ -1,22 +1,11 @@
-<table style="width:100%; border:none;">
-<tr>
-<td style="width:50%; vertical-align:top;">
-  
 # **Radhakishan Surwase**  
-### **Lead Software Engineer**  
+## 💼 Lead Software Engineer  
+
 📍 Pune, India  
 📞 (+91) 8263892654  
 ✉️ [radhakishans@hotmail.com](mailto:radhakishans@hotmail.com)  
-
-</td>
-<td style="width:50%; text-align:right; vertical-align:top;">
-
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/rkishans/)  
-[![Medium](https://img.shields.io/badge/-Medium-black?logo=medium)](https://rksurwase.medium.com/)
-
-</td>
-</tr>
-</table>
+[![Medium](https://img.shields.io/badge/-Medium-black?logo=medium)](https://rksurwase.medium.com/)  
 
 ---
 
@@ -47,6 +36,16 @@
 - 💡 Led technical reviews and **architectural discussions** to establish best practices.  
 - 🤝 Mentored junior developers on **Golang concurrency patterns** and performance optimization.  
 - 🛡️ Enhanced system **security** through advanced authentication mechanisms.
+
+### **Senior Software Engineer - L4**  
+**MAERSK GSC, Pune**  
+*October 2023 – September 2024*  
+- 🚢 Architected high-performance data pipelines for seamless **vessel data integration**.  
+- 📈 Improved CI/CD pipelines with automated code quality checks and **real-time monitoring tools**.  
+- ⚡ Designed event-driven communication systems using **ActiveMQ** for asynchronous processing.  
+- 🧑‍🏫 Conducted workshops on **Golang best practices** and system design.  
+- ⚙️ Optimized resource utilization through advanced **concurrency mechanisms**.  
+- 💾 Improved data consistency using distributed transactions.
 
 ---
 

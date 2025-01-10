@@ -1,4 +1,4 @@
-# ![Photo](photo_blue_bg.jpg) Radhakishan Surwase  
+# <img src="photo_blue_bg.jpg" alt="Profile Photo" width="120" height="120" style="border-radius: 50%;"/> Radhakishan Surwase  
 **Lead Software Engineer**  
 📍 Pune, India | 📞 (+91) 8263892654 | ✉️ [radhakishans@hotmail.com](mailto:radhakishans@hotmail.com)  
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/rkishans/)  
